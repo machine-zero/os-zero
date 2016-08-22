@@ -24,6 +24,13 @@
 //     },
 //   ]
 
+function Resource() {
+  // the version of this resource schema
+  this.version = "1.0.0";
+  // the namespace of this resource
+  this.namespace = "default";
+}
+
 
 // An application that is installed and runs on a fleet
 function App() {

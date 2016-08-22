@@ -1,0 +1,23 @@
+{
+  "name": "os-zero",
+  "version": "0.1.0",
+  "description": "The os that runs on machineØ",
+  "main": "zero.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/machine-zero/os-zero.git"
+  },
+  "author": "Matt Hartzler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/machine-zero/os-zero/issues"
+  },
+  "homepage": "https://github.com/machine-zero/os-zero#readme",
+  "dependencies": {
+    "lodash": "^4.15.0",
+    "redux": "^3.5.2"
+  }
+}
